@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OstapPoliakov/hw/static/css/main.f855e6bc.css",
+    "main.js": "/OstapPoliakov/hw/static/js/main.d0cb8315.js",
+    "static/js/250.86965dff.chunk.js": "/OstapPoliakov/hw/static/js/250.86965dff.chunk.js",
+    "index.html": "/OstapPoliakov/hw/index.html",
+    "main.f855e6bc.css.map": "/OstapPoliakov/hw/static/css/main.f855e6bc.css.map",
+    "main.d0cb8315.js.map": "/OstapPoliakov/hw/static/js/main.d0cb8315.js.map",
+    "250.86965dff.chunk.js.map": "/OstapPoliakov/hw/static/js/250.86965dff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.d0cb8315.js"
+  ]
+}
